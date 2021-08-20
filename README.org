@@ -25,7 +25,7 @@ See [[https://forum.italia.it/c/fattura-pa][Forum Italia - Fatturazione Elettron
 * Quickstart
 ** Dependencies
 - ~php-xml~
-- tested for PHP 7+ +should work on PHP 5.5+ +too+
+- tested for PHP 8+ +should work on PHP 5.5+ +too+
 
 ** Installation
 *** Composer
